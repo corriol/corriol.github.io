@@ -29,7 +29,7 @@ github_username:  corriol
 
 # Build settings
 theme: no-style-please
-#remote-theme: mmistakes/minimal-mistakes
+remote-theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 

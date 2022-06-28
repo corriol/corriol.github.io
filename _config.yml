@@ -28,7 +28,7 @@ twitter_username: vicentjorda
 github_username:  corriol
 
 # Build settings
-theme: no-style-please
+# theme: no-style-please
 remote-theme: riggraz/no-style-please
 plugins:
   - jekyll-feed

@@ -1,12 +1,20 @@
 entries:
-  - title: Apunts
-    entries:
-      - title: Desenvolupament Web en Entorn Servidor (2023-24)
-        url: https://corriol.github.io/2024-dwes
-      
+  - title: Apunts     
+      entries: 
+
+      - title: Desplegament d'Aplicacions Web (2025-26)
+        url: https://corriol.github.io/2025-daw
+
+      - title: Digitalització Aplicada als sectors productius (2025-26)
+        url: https://corriol.github.io/2025-dig
+
       
   - title: Apunts cursos anteriors
     entries: 
+
+      - title: Desenvolupament Web en Entorn Servidor (2023-24)
+        url: https://corriol.github.io/2024-dwes
+
       - title: Desenvolupament Web en Entorn Servidor (2022-23)
         url: https://corriol.github.io/2023-dwes
       
